@@ -1,0 +1,7 @@
+{
+    "name": "node-red-custom",
+    "description": "Extra nodes baked into the cluster Node-RED image. Add entries to dependencies and push to main to trigger a multi-arch image rebuild via GitHub Actions. This file is also synced back here by the state-syncer sidecar when the user installs nodes via the Node-RED UI.",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {}
+}
