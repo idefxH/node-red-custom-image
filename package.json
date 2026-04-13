@@ -3,5 +3,7 @@
     "description": "Node-RED user package — tracks UI-installed nodes. Updated by state-syncer sidecar.",
     "version": "1.0.0",
     "private": true,
-    "dependencies": {}
+    "dependencies": {
+        "node-red-contrib-zigbee2mqtt": "~2.7.5"
+    }
 }
