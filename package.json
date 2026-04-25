@@ -1,7 +1,1 @@
-{
-    "name": "node-red-user",
-    "description": "Node-RED user package — tracks UI-installed nodes. Updated by state-syncer sidecar.",
-    "version": "1.0.0",
-    "private": true,
-    "dependencies": {}
-}
+{"name":"node-red-user","description":"Node-RED user package","version":"1.0.0","private":true,"dependencies":{}}
